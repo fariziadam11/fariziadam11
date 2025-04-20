@@ -146,13 +146,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/farizi-adam">
+  <a href="https://linkedin.com/in/fariziadam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/adam40l">
+  <a href="https://stackoverflow.com/users/adam40L">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://fb.com/farizi-adam">
+  <a href="https://fb.com/fariziadam">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/friziadm">
