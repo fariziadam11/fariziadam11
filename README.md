@@ -17,7 +17,7 @@
   <a href="https://github.com/fariziadam11">
     <img src="https://img.shields.io/github/followers/fariziadam11?style=for-the-badge&color=6E5494&labelColor=0D1117&logo=github" alt="Followers" />
     <img src="https://img.shields.io/github/stars/fariziadam11?style=for-the-badge&color=6E5494&labelColor=0D1117&logo=github" alt="Stars" />
-    <img src="https://img.shields.io/github/repos/1/fariziadam11?style=for-the-badge&color=6E5494&labelColor=0D1117&logo=github" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-20+-6E5494?style=for-the-badge&labelColor=0D1117&logo=github" alt="Repositories" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Current Projects
+## 🚀 Current Projects
 
 <div align="center">
   <table>
@@ -63,7 +63,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>🌟 Frontend Development</b></summary>
@@ -140,7 +140,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <!-- Using a simpler version for activity graph -->
 <div align="center">
@@ -162,7 +162,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
+## 👋 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/farizi-adam">
@@ -193,9 +193,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=✨+Let's+collaborate+and+innovate!+✨;Open+to+exciting+opportunities;Code+•+Create+•+Inspire" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+  <img src="https://img.shields.io/badge/✨%20Let's%20collaborate%20and%20innovate!%20✨-6E5494?style=for-the-badge&logoColor=white" alt="Collaboration" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20•%20Create%20•%20Inspire-171515?style=for-the-badge&logoColor=white" alt="Mantra" />
 </div>
 
 <div align="center">
