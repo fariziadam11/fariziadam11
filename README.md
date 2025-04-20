@@ -1,181 +1,165 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9C%A6+FARIZI+ADAM+%E2%9C%A6;Full+Stack+Developer;React+%2B+Laravel+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%94%AE+FARIZI+ADAM+%F0%9F%94%AE;Full+Stack+Developer;Tech+Explorer+%26+Problem+Solver;Building+Digital+Experiences" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E5494&height=120&section=header&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=25" width="100%"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/fariziadam11"><img src="https://komarev.com/ghpvc/?username=fariziadam11&label=Profile%20Views&color=6e5494&style=for-the-badge" alt="Profile Views" /></a>
-  <a href="https://my-portfolio-teal-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:fariziadam508@gmail.com"><img src="https://img.shields.io/badge/Email-fariziadam508%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://my-portfolio-teal-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6E5494?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:fariziadam508@gmail.com"><img src="https://img.shields.io/badge/Email-fariziadam508%40gmail.com-6E5494?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<div align="center">
+  <h3>📍 Full Stack Developer | React & Laravel Specialist | Tech Enthusiast</h3>
 </div>
 
 <br>
-
-<!-- Widget Box - Replacement since original may not be working -->
-<div align="center">
-  <a href="https://github.com/fariziadam11">
-    <img src="https://img.shields.io/github/followers/fariziadam11?style=for-the-badge&color=6E5494&labelColor=0D1117&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/fariziadam11?style=for-the-badge&color=6E5494&labelColor=0D1117&logo=github" alt="Stars" />
-    <img src="https://img.shields.io/badge/Repositories-20+-6E5494?style=for-the-badge&labelColor=0D1117&logo=github" alt="Repositories" />
-  </a>
-</div>
-
-<br>
-
-<!-- Animated separator - Using a more reliable source -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🚀 Current Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Muslim Companion</h3>
-        <p align="center">
-          <a href="https://muslimcompanion-takbir.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE-6E5494?style=for-the-badge" alt="Live"/>
-          </a>
-          <a href="https://github.com/fariziadam11/muslim-companion" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-        </p>
-        <p align="center">An Islamic platform providing daily guidance and spiritual resources</p>
+      <td>
+        <a href="https://github.com/fariziadam11">
+          <img src="https://github-stats-alpha.vercel.app/api?username=fariziadam11&cc=0D1117&tc=6E5494&ic=fff&bc=0D1117" alt="GitHub Stats" />
+        </a>
       </td>
-      <td width="50%">
-        <h3 align="center">TypeScript Learning Journey</h3>
-        <p align="center">
-          <a href="https://github.com/fariziadam11/typescript-mastery" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-        </p>
-        <p align="center">Exploring TypeScript to enhance development workflow and code quality</p>
+      <td>
+        <a href="https://github.com/fariziadam11">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fariziadam11&theme=transparent&background=0D1117&ring=6E5494&fire=6E5494&currStreakLabel=6E5494&hide_border=true&border_radius=10" alt="Streak Stats"/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Animated separator - Using a more reliable source -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fariziadam11&custom_title=Farizi's%20Contribution%20Graph&bg_color=0D1117&color=6E5494&line=6E5494&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph">
 </div>
 
-## 🛠️ Tech Stack
+<hr>
 
-<details open>
-<summary><b>🌟 Frontend Development</b></summary>
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/-Muslim_Companion-6E5494?style=for-the-badge" alt="Muslim Companion"/>
+        </h3>
+        <p align="center">
+          <a href="https://muslimcompanion-takbir.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+          </a>
+          <a href="https://github.com/fariziadam11/muslim-companion" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+        </div>
+        <p align="center">An immersive Islamic platform providing daily guidance, prayer times, Quran recitations, and spiritual resources for Muslims worldwide.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/-TypeScript_Mastery-6E5494?style=for-the-badge" alt="TypeScript Mastery"/>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/fariziadam11/typescript-mastery" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+        </div>
+        <p align="center">A comprehensive TypeScript learning journey documenting advanced patterns, best practices, and real-world applications to enhance development workflow.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/-Portfolio_Website-6E5494?style=for-the-badge" alt="Portfolio"/>
+        </h3>
+        <p align="center">
+          <a href="https://my-portfolio-teal-zeta.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+          </a>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+        </div>
+        <p align="center">My personal portfolio showcasing projects, skills, and professional journey with interactive 3D elements and animations.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/-E_Commerce_Platform-6E5494?style=for-the-badge" alt="E-Commerce"/>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/fariziadam11" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        </div>
+        <p align="center">A full-featured e-commerce solution with advanced product management, payment processing, and customer analytics dashboard.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+  <h3>🔥 Primary Weapons</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,laravel,tailwind,nodejs,graphql" alt="Primary Skills" />
+  
+  <h3>⚔️ Battle-Tested Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cs,html,css" alt="Languages" />
+  
+  <h3>🛡️ Database & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,docker,kubernetes,nginx" alt="Infrastructure" />
+  
+  <h3>🧰 Tools & Utilities</h3>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux,bash,arduino,unity" alt="Tools" />
+</div>
+
+<hr>
+
+## 📊 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariziadam11&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=0D1117&text_color=FFFFFF&title_color=6E5494&hide_border=true&border_radius=10" width="355" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fariziadam11&theme=nord&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" width="450" alt="Trophies" />
+</div>
+
 <br>
-<div align="center">
-  <!-- Alternative for dynamic SVGs that might not load -->
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-</details>
 
-<details open>
-<summary><b>🔧 Backend Development</b></summary>
-<br>
-<div align="center">
-  <!-- More reliable badge approach -->
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</div>
-</details>
+<hr>
 
-<details open>
-<summary><b>📊 Database Management</b></summary>
-<br>
-<div align="center">
-  <!-- Badge-based approach instead of SVG generation -->
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</div>
-</details>
-
-<details>
-<summary><b>🚢 DevOps & CI/CD</b></summary>
-<br>
-<div align="center">
-  <!-- Badge approach -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</div>
-</details>
-
-<details>
-<summary><b>🧠 Data Science & Other Skills</b></summary>
-<br>
-<div align="center">
-  <!-- Badge approach -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</div>
-</details>
-
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📊 GitHub Analytics
-
-<!-- Using a simpler version for activity graph -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fariziadam11&theme=radical" width="95%" alt="Activity Graph">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariziadam11&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_radius=10" width="355" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fariziadam11&show_icons=true&locale=en&theme=radical&bg_color=0D1117&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" width="450" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fariziadam11&theme=radical&background=0D1117&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="450" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=fariziadam11&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" width="355" alt="Trophies" />
-</div>
-
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 👋 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/farizi-adam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/fariziadam11">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <a href="https://stackoverflow.com/users/Adam40L">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://fb.com/fariziadam">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/friziadm">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://dev.to/fariziadam11">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
@@ -185,21 +169,39 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://instagram.com/friziadm">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/fariziadam">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discord.gg/fariziadam#0001">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/fariziadam11">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
 <br>
 
-<!-- Beautiful code snippet display -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="550" alt="Quote" />
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>🐍 Watch My Contribution Graph Get Eaten By the Snake 🐍</h3>
+  <img src="https://raw.githubusercontent.com/fariziadam11/fariziadam11/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/✨%20Let's%20collaborate%20and%20innovate!%20✨-6E5494?style=for-the-badge&logoColor=white" alt="Collaboration" />
+  <h3>💻 Random Dev Joke To Brighten Your Day</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder&bgColor=%230D1117&qColor=%236E5494&aColor=%23FFFFFF" alt="Dev Joke" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20•%20Create%20•%20Inspire-171515?style=for-the-badge&logoColor=white" alt="Mantra" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,30,114,128&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E5494&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80" width="100%"/>
 </div>
