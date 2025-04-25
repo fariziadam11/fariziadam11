@@ -53,7 +53,7 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | **[Muslim Companion](https://muslimcompanion-takbir.vercel.app/)** | Islamic platform with prayer times, Quran resources, and mosque locator | React, Next.js, Tailwind | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7E3AF2?style=for-the-badge)](https://muslimcompanion-takbir.vercel.app/) |
-| **[3D Portfolio](https://farizi-portfolio.vercel.app)** | Interactive portfolio with 3D elements and animations | React, Three.js, Framer Motion | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7E3AF2?style=for-the-badge)](https://my-portfolio-teal-zeta.vercel.app/) |
+| **[3D Portfolio](https://farizi-portfolio.vercel.app)** | Interactive portfolio with 3D elements and animations | React, Three.js, Framer Motion | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7E3AF2?style=for-the-badge)](https://farizi-portfolio.vercel.app) |
 | **E-Commerce Platform** | Full-featured online store with payment integration | Laravel, MySQL, Redis | Coming Soon |
 
 ---
@@ -74,13 +74,13 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/farizi-adam">
+  <a href="https://linkedin.com/in/fariziadam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/fariziadam">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/fariziadam">
+  <a href="https://instagram.com/friziadm">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
