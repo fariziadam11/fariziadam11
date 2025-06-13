@@ -48,29 +48,6 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **[Muslim Companion](https://muslimcompanion-takbir.vercel.app/)** | Islamic platform with prayer times, Quran resources, and mosque locator | React, Next.js, Tailwind | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7E3AF2?style=for-the-badge)](https://muslimcompanion-takbir.vercel.app/) |
-| **[3D Portfolio](https://farizi-portfolio.vercel.app)** | Interactive portfolio with 3D elements and animations | React, Three.js, Framer Motion | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-7E3AF2?style=for-the-badge)](https://farizi-portfolio.vercel.app) |
-| **E-Commerce Platform** | Full-featured online store with payment integration | Laravel, MySQL, Redis | Coming Soon |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fariziadam11&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariziadam11&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fariziadam11&theme=radical&background=0D1117&hide_border=true" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
